@@ -7,7 +7,7 @@
 https://www.youtube.com/watch?v=XFyNGBKkaUE
 
 
-## 📖실행법
+## 실행법
 
 1.프로젝트 의존성 설치 :
 - 필요한 라이브러리를 설치하기 위해 터미널에서 pip install -r requirements.txt 명령어를 실행합니다.
